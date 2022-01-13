@@ -2,7 +2,7 @@
 // @name         Pahe.in Enhancement
 // @namespace    https://github.com/Shivelight/userscripts
 // @description  Enhance Pahe.in browsing experience.
-// @version      0.1.0
+// @version      0.1.1
 // @author       Shivelight
 // @license      MIT
 // @homepage     https://github.com/Shivelight/userscripts/tree/master/Pahe.in_Enhancement
