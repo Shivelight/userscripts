@@ -13,6 +13,7 @@
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
 // @match        https://pahe.ph/*
+// @match        https://pahe.li/*
 // @run-at       document-start
 // ==/UserScript==
 
